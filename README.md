@@ -2,7 +2,8 @@
 
 ## Image Example
 
-<img src="/Face-Recognition-using-OpenCV/Face Recognition demo.png" alt="Example Image" width="300" />
+<img src="Face Recognition demo.png" alt="Example Image" width="300" />
+
 
 
 This project implements a face recognition application using OpenCV. The application trains a model using images stored in a dataset directory and then recognizes faces from a live webcam feed.
