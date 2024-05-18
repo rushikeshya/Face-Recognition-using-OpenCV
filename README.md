@@ -2,7 +2,7 @@
 
 ## Image Example
 
-<img src="Face Recognition demo.png" alt="Example Image" width="300" />
+<img src="Face Recognition demo.png" alt="Example Image" width="600" />
 
 
 
